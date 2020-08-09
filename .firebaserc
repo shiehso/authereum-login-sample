@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "authereum-login-sample": {
+      "hosting": {
+        "authereum-login-sample": [
+          "authereum-login-sample"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "authereum-login-sample"
+  }
+}

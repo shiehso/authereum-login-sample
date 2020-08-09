@@ -1,0 +1,13 @@
+[debug] [2020-08-09T08:31:55.588Z] ----------------------------------------------------------------------
+[debug] [2020-08-09T08:31:55.590Z] Command:       /Users/m0t0k1ch1/.nodenv/versions/12.16.1/bin/node /Users/m0t0k1ch1/.nodenv/versions/12.16.1/bin/firebase deploy
+[debug] [2020-08-09T08:31:55.590Z] CLI Version:   8.7.0
+[debug] [2020-08-09T08:31:55.590Z] Platform:      darwin
+[debug] [2020-08-09T08:31:55.591Z] Node Version:  v12.16.1
+[debug] [2020-08-09T08:31:55.591Z] Time:          Sun Aug 09 2020 17:31:55 GMT+0900 (GMT+09:00)
+[debug] [2020-08-09T08:31:55.592Z] ----------------------------------------------------------------------
+[debug] [2020-08-09T08:31:55.592Z] 
+[debug] [2020-08-09T08:31:55.602Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-08-09T08:31:55.603Z] > authorizing via signed-in user
+[debug] [2020-08-09T08:31:55.603Z] [iam] checking project authereum-login-sample for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2020-08-09T08:31:55.607Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/authereum-login-sample:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
